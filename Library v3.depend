@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1712861608 source:c:\users\click\onedrive\desktop\c c++\library v3\main.c
+	<stdio.h>
+	"library.h"
+
+1712863767 c:\users\click\onedrive\desktop\c c++\library v3\library.h
+
+1712863779 source:c:\users\click\onedrive\desktop\c c++\library v3\authentication.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+
+1712862413 source:c:\users\click\onedrive\desktop\c c++\library v3\book_search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+
+1712864599 source:c:\users\click\onedrive\desktop\c c++\library v3\file_io.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+
+1712863881 source:c:\users\click\onedrive\desktop\c c++\library v3\book_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+
